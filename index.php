@@ -9,7 +9,7 @@
             margin: 0;
             padding: 0;
             height: 100vh;
-            background: url('path_to_your_image/Create_a_poster_for_the_Melayu_World_Arts_Festival.png') no-repeat center center fixed;
+            background: url('poster.png') no-repeat center center fixed;
             background-size: cover;
             font-family: Arial, sans-serif;
             color: white;
