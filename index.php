@@ -9,7 +9,7 @@
             margin: 0;
             padding: 0;
             height: 100vh;
-            background: url('poster.png') no-repeat center center fixed;
+            background: url('bg.png') no-repeat center center fixed;
             background-size: cover;
             font-family: Arial, sans-serif;
             color: white;
@@ -26,6 +26,6 @@
     </style>
 </head>
 <body>
-    <h1>Melayu World Arts Festival</h1>
+    <!-- <h1>Melayu World Arts Festival</h1> -->
 </body>
 </html>
